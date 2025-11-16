@@ -1,0 +1,8 @@
+Usuário 1: Igor
+Usuário 2: Bianca
+Usuário 3: Yuri
+Usuário 1: Anna
+Usuário 1: Mário
+Usuário 1: Igor
+Usuário 2: Bianca
+Usuário 3: Yuri
